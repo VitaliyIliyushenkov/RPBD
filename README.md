@@ -43,20 +43,31 @@
 
 ## Скриншоты
 **Меню навигации**
+
 ![Меню навигации](https://github.com/VitaliyIliyushenkov/RPBD/blob/main/ShopDesktop/ShopDesktop/bin/Debug/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-07%20155012.png)
+
 **Форма клиентов**
+
 ![Форма клиентов](https://github.com/VitaliyIliyushenkov/RPBD/blob/main/ShopDesktop/ShopDesktop/bin/Debug/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-07%20155109.png)
+
 **Форма продаж**
+
 ![Форма продаж](https://github.com/VitaliyIliyushenkov/RPBD/blob/main/ShopDesktop/ShopDesktop/bin/Debug/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-07%20155128.png)
+
 **Аналитика продаж**
+
 ![Аналитика продаж](https://github.com/VitaliyIliyushenkov/RPBD/blob/main/ShopDesktop/ShopDesktop/bin/Debug/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-07%20155151.png)
+
 **Форма товаров**
+
 ![Форма товаров](https://github.com/VitaliyIliyushenkov/RPBD/blob/main/ShopDesktop/ShopDesktop/bin/Debug/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-07%20155214.png)
+
 **Аналитика товаров**
+
 ![Аналитика товаров](https://github.com/VitaliyIliyushenkov/RPBD/blob/main/ShopDesktop/ShopDesktop/bin/Debug/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-07%20155235.png)
+
 **Форма категорий**
+
 ![Форма категорий](https://github.com/VitaliyIliyushenkov/RPBD/blob/main/ShopDesktop/ShopDesktop/bin/Debug/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202024-12-07%20155253.png)
-
-
 
 
