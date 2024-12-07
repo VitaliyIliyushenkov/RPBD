@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|c:\\users\\perto\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\rpbd\\shopdesktop\\shopdesktop\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|solutionrelative:shopdesktop\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\shopdesktop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|solutionrelative:shopdesktop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\shopdesktop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|solutionrelative:shopdesktop\\salesform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\shopdesktop\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|solutionrelative:shopdesktop\\productsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\shopdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{887FBC8B-279A-4756-A556-41997E88D4E0}|ShopDesktop\\ShopDesktop.csproj|solutionrelative:shopdesktop\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{fabf9319-47eb-497e-b8f6-d9f73fba5f55}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsForm.cs",
+              "DocumentMoniker": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\ShopDesktop\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "ShopDesktop\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\ShopDesktop\\ProductsForm.cs",
+              "RelativeToolTip": "ShopDesktop\\ProductsForm.cs",
+              "ViewState": "AQIAAFsBAAAAAAAAAAAuwGgBAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:17:58.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\ShopDesktop\\ProductsForm.cs",
+              "RelativeDocumentMoniker": "ShopDesktop\\ProductsForm.cs",
+              "ToolTip": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShopDesktop\\ShopDesktop\\ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\ShopDesktop\\ShopDesktop\\ProductsForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:17:56.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalesForm.cs",
+              "DocumentMoniker": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\ShopDesktop\\SalesForm.cs",
+              "RelativeDocumentMoniker": "ShopDesktop\\SalesForm.cs",
+              "ToolTip": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\ShopDesktop\\SalesForm.cs",
+              "RelativeToolTip": "ShopDesktop\\SalesForm.cs",
+              "ViewState": "AQIAACMBAAAAAAAAAAAQwEUBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:04:55.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\ShopDesktop\\SalesForm.cs",
+              "RelativeDocumentMoniker": "ShopDesktop\\SalesForm.cs",
+              "ToolTip": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShopDesktop\\ShopDesktop\\SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\ShopDesktop\\ShopDesktop\\SalesForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T12:04:49.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\RPBD\\ShopDesktop\\ShopDesktop\\Form1.cs",
+              "RelativeDocumentMoniker": "ShopDesktop\\Form1.cs",
+              "ToolTip": "C:\\Users\\perto\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ShopDesktop\\ShopDesktop\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "..\\..\\ShopDesktop\\ShopDesktop\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T11:14:49.914Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
